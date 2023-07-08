@@ -4,5 +4,4 @@
 
 #
 
-> <h2 style="color:yellow;text-decoration:underline;
-> "Note: Databases queries are stored in Database folder</h2>
+> <h2 style="color:yellow;text-decoration:underline"> Note: Databases queries are stored in Database folder</h2>
